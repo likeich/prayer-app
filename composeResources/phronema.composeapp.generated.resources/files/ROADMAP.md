@@ -16,6 +16,9 @@
 - Add Orthodox chants
 - Add Audio readings
 
+###### Spiritual Texts
+- Add the services of the Church
+
 ###### Library Tab
 - Basic search functionality
 - Bookmarking verses
