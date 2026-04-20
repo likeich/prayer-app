@@ -26,6 +26,7 @@
 - Note-taking feature
 - Chapter completion status
 - Load each chapter on demand (performance optimization)
+- Strong's word reference support to explore a word and see its usages across Scripture
 
 ###### Optional Notifications
 - Daily verse notifications
