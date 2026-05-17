@@ -7,17 +7,9 @@
 - Icon selection from a set of icons
 - Freeform icon placement
 
-###### Prayer Rule
-- Create custom prayer rules
-- Organize prayers
-- Enable/disable rules
-
 ###### Audio
-- Add Orthodox chants
-- Add Audio readings
-
-###### Spiritual Texts
-- Add the services of the Church
+- More Orthodox chants
+- Add audio readings
 
 ###### Library Tab
 - Basic search functionality
@@ -26,14 +18,11 @@
 - Note-taking feature
 - Chapter completion status
 - Load each chapter on demand (performance optimization)
-- Strong's word reference support to explore a word and see its usages across Scripture
 
 ###### Optional Notifications
 - Daily verse notifications
-- Prayer time reminders
 - Feast day alerts
 - Fasting period reminders
-- Customizable notification settings
 - Name day notifications
 
 ###### Plans
